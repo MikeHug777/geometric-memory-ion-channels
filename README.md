@@ -89,9 +89,16 @@ All calculation scripts are self-contained and produce terminal output:
 python3 calculations/calculation_P_equipartition_derivation.py
 ```
 
+## Supplementary Information
+
+The full SI document (10 sections, derivations, numerical verifications, and data comparisons) is included in this repository:
+
+- [`SI_geometric_memory.pdf`](SI_geometric_memory.pdf) — compiled PDF
+- [`SI_geometric_memory.tex`](SI_geometric_memory.tex) — LaTeX source
+
 ## Paper
 
-Hug, M. (2026). Pore Symmetry Determines Fractal Memory in Ion Channels. *bioRxiv* [preprint].
+Hug, M. (2026). Pore Symmetry Determines Fractal Memory in Ion Channels. *bioRxiv* [preprint]. DOI: *forthcoming*
 
 Pre-registration: [OSF](https://doi.org/10.17605/OSF.IO/BESWG)
 

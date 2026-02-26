@@ -3,5 +3,7 @@ __pycache__/
 *.pyo
 mc_molien_partition/
 *.png
-*.pdf
 .DS_Store
+
+# Allow SI PDF explicitly
+!SI_geometric_memory.pdf
