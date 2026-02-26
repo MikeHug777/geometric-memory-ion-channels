@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+mc_molien_partition/
+*.png
+*.pdf
+.DS_Store
